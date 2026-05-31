@@ -1,0 +1,6 @@
+app_name = "dummy_app"
+app_title = "Dummy App"
+app_publisher = "Enfono"
+app_description = "Dummy test app — verifies install/update/version flow"
+app_email = "dev@enfono.com"
+app_license = "mit"
